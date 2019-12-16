@@ -39,7 +39,6 @@ Take notes for each student if you guide the standup
 
 ## Sample Daily Standup Meetings
 
-* iOS9 + iOS12 Kickoff (3pm Friday) https://youtu.be/2KbhbK8taRw
 * Daily Standup - Monday: https://youtu.be/xK2wxxXG-sE
 * Daily Standup - Tuesday: https://youtu.be/cgNdJvde5xc
 * Daily Standup - Wednesday: https://youtu.be/KZmlJW1t0LE
