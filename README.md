@@ -25,14 +25,15 @@ Take notes for each student if you guide the standup
 **Example notes in Markdown**
 
 ```
-* Yesterday?
-    * Created App Store app 
-    * Submitted proposal and incorporated feedback from 1:1
-* Today?
-    * Creating the collection view for movies
-    * Making an API request to moviedb.com 
-    * Creating Movie model object
-* Blocked?
-    * Stuck on the delegate callback? Not sure what to do?
+* Paul
+   * Yesterday?
+       * Created App Store app 
+       * Submitted proposal and incorporated feedback from 1:1
+   * Today?
+       * Creating the collection view for movies
+       * Making an API request to moviedb.com 
+       * Creating Movie model object
+   * Blocked?
+       * Stuck on the delegate callback? Not sure what to do?
 ```
 
